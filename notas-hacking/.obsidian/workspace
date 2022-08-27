@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a69695100577001d",
+    "type": "split",
+    "children": [
+      {
+        "id": "02ecbc1fdbc7d211",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "retos-bandit/level8a9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dedcccf7236a2fe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "157343ca693e7650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c9834c944ae89a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3212666b0394fb69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae12da4b97665d68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 157.5
+  },
+  "right": {
+    "id": "28eb4a934e0b17ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98897d7cace9464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0db2feba5064884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retos-bandit/level8a9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afdf7858ca6cff32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retos-bandit/level8a9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca5d78df7cc8931e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c378bac74092c48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retos-bandit/level8a9.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "02ecbc1fdbc7d211",
+  "lastOpenFiles": [
+    "retos-bandit/level9a10.md",
+    "retos-bandit/level26a27.md",
+    "retos-bandit/level24a25.md",
+    "retos-bandit/level16a17.md",
+    "retos-bandit/level13a14.md",
+    "retos-bandit/level12a13.md",
+    "retos-bandit/level10a11.md",
+    "retos-bandit/level11a12.md",
+    "retos-bandit/level8a9.md",
+    "retos-bandit/level7a8.md"
+  ]
+}
